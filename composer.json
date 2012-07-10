@@ -1,5 +1,6 @@
 {
     "name": "gedmo/doctrine-extensions",
+    "version": "2.3.2",
     "type": "library",
     "description": "Doctrine2 behavioral extensions",
     "keywords": [
